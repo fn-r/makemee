@@ -1807,7 +1807,8 @@ button,
       width: calc(100% + 4.5em); }
       .posts article {
         margin: 0 0 4.5em 4.5em;
-        width: calc(50% - 4.5em); }
+        width: calc(100% - 4.5em);
+        }
         .posts article:before {
           height: calc(100% + 4.5em);
           left: -2.25em; }
